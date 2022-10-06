@@ -1,0 +1,17 @@
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\bin\Debug\net6.0-windows\Adressbok.exe
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\bin\Debug\net6.0-windows\Adressbok.deps.json
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\bin\Debug\net6.0-windows\Adressbok.runtimeconfig.json
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\bin\Debug\net6.0-windows\Adressbok.dll
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\bin\Debug\net6.0-windows\Adressbok.pdb
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\Adressbok.csproj.AssemblyReference.cache
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\Adressbok.MainForm.resources
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\Adressbok.csproj.GenerateResource.cache
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\Adressbok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\Adressbok.AssemblyInfoInputs.cache
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\Adressbok.AssemblyInfo.cs
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\Adressbok.csproj.CoreCompileInputs.cache
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\Adressbok.dll
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\refint\Adressbok.dll
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\Adressbok.pdb
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\Adressbok.genruntimeconfig.cache
+C:\Users\mathiask\Visual Studio Projects\Inlämningsuppgift_AdressBok\Adressbok\Adressbok\obj\Debug\net6.0-windows\ref\Adressbok.dll
